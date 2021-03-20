@@ -7,4 +7,11 @@ require_relative "character_classes"
 # puts "Choose your character!"
 
 
-puts Characters.new.characters.length
+# characterLength = Characters.new.characters.length
+# puts characterLength
+# puts Characters.new.characters["name"]
+# i=0
+# while i < characterLength
+#     puts Characters.new.characters["name"]
+#     i +=1
+# end
