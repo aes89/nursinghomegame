@@ -3,8 +3,20 @@ require_relative "validate_name"
 
 # puts "welcome text about nursing home blah blah"
 puts "What's your name?"
-name = gets.strip
-puts "Welcome #{name}!"
+
+# should be exceptions I think?
+
+def name_validation(input)
+    if input == ""
+        puts "Type your name"
+        name_validation(name = gets.strip)
+    else
+        $name=input
+    end
+end
+
+name_validation(name = gets.strip)
+puts "Welcome #{$name}!"
 puts "Choose your character!"
 
 puts "Who do you want to preview?"
