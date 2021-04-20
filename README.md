@@ -11,9 +11,9 @@
     <summary>
         click
     </summary>
-    Still under development (obviously).
+Still under development (obviously).
 
-    This is a personal project by <a href="#contact">Adrienne</a> to refresh and further develop her understanding of Ruby. 
+This is a personal project by <a href="#contact">Adrienne</a> to refresh and further develop her understanding of Ruby. 
 </details>
 
 <h3 id="tech">Technologies</h3>
