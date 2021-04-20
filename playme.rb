@@ -14,7 +14,6 @@ puts "Who do you want to preview?"
 # call character selection here
 require_relative "character_selection"
 
-puts "Write a spiel about a hallway and however many different rooms, where will you go?"
 
 
 # call tutorial here
