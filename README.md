@@ -12,6 +12,8 @@
         click
     </summary>
     Still under development (obviously).
+
+    This is a personal project by <a href="#contact">Adrienne</a> to refresh and further develop her understanding of Ruby. 
 </details>
 
 <h3 id="tech">Technologies</h3>
@@ -90,6 +92,11 @@ TBD.
                 Other Information
             </a>
         </li>
+        <li>
+            <a href="#contact">
+                Get in Touch!
+            </a>
+        </li>
     </ul>
 </details>
 
@@ -147,7 +154,7 @@ TBD.
     <ul>
         <li>
             README.md structure: <a href="https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project">
-                Article by Rita Łyczywek
+                article by Rita Łyczywek
             </a>
         </li>
     </ul>
@@ -162,4 +169,31 @@ TBD.
         click
     </summary>
     Under development.
+</details>
+
+<h3 id="contact">
+    Get in Touch!
+</h3>
+
+<details>
+    <summary>
+        click
+    </summary>
+    This project was developed by Adrienne, recent graduate of Coder Academy's coding boot-camp. Feel free to reach out!
+    <ul>
+        <li>
+            <a href="https://www.linkedin.com/in/asmith-webdev/">
+                LinkedIn
+            </a>
+        </li>
+        <li>
+            <a href="hhttps://github.com/aes89">
+                GitHub
+            </a>
+        </li>
+            <a href="https://twitter.com/Adrienne_es">
+                Twitter
+            </a>
+        </li>
+    </ul>
 </details>
