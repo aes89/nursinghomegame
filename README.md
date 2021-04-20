@@ -144,7 +144,13 @@ TBD.
     <summary>
         click
     </summary>
-    Under development.
+    <ul>
+        <li>
+            README.md structure: <a href="https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project">
+                Article by Rita Łyczywek
+            </a>
+        </li>
+    </ul>
 </details>
 
 <h3 id="other">
