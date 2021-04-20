@@ -1,9 +1,9 @@
-    # Nursing Home Game
+    #Nursing Home Game
+
+    ##Yeah, it needs a jazzier title. <a href="https://twitter.com/Adrienne_es">Hit me with your suggestions!</a>
     
-    ## Yeah, it needs a jazzier title. <a href="https://twitter.com/Adrienne_es">Hit me with your suggestions!</a>
-    
-    ### Introduction
-    ### Technologies
+    ###Introduction
+    ###Technologies
     Launch
 
     Table of contents
