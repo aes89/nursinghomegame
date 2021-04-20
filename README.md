@@ -187,7 +187,7 @@ TBD.
             </a>
         </li>
         <li>
-            <a href="hhttps://github.com/aes89">
+            <a href="https://github.com/aes89">
                 GitHub
             </a>
         </li>
